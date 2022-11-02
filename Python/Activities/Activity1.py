@@ -1,0 +1,5 @@
+name= input("enter name : ")
+age= input("enter age : ")
+a= int(age)
+century = str(100-a) 
+print( name +" will turn 100 in " + century + " years")
